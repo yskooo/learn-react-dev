@@ -8,3 +8,6 @@
 
 # Ternary operators
 ![image](https://github.com/yskooo/learn-react-dev/assets/90546802/e1bd68aa-90c9-40ff-b5f3-b80efae5f082)
+
+# Filter array
+![image](https://github.com/yskooo/learn-react-dev/assets/90546802/caa925ac-2078-4a0b-824c-eb7dd1329d01)
