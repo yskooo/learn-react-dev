@@ -11,3 +11,6 @@
 
 # Filter array
 ![image](https://github.com/yskooo/learn-react-dev/assets/90546802/caa925ac-2078-4a0b-824c-eb7dd1329d01)
+
+# Rendering Lists - .filter() and .map()
+![image](https://github.com/yskooo/learn-react-dev/assets/90546802/5264832e-a4cb-4437-ba6e-9625bc7ab844)
